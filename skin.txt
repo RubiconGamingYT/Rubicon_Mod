@@ -1,0 +1,4 @@
+cd $HOME/Rubicon_Mod
+chmod +x menuskin
+chmod +x pakskin
+./menuskin
